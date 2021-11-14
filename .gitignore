@@ -1,9 +1,3 @@
-.history
-.cache
-.idea
-dist
-node_modules
-.tailwind
-.parcel-cache
-.DS_Store
-
+/node_modules
+# Local Netlify folder
+.netlify

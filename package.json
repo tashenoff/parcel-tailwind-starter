@@ -10,12 +10,14 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "aos": "^2.3.4",
     "parcel": "^2.0.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.0",
     "autoprefixer": "^10.4.0",
     "postcss": "^8.3.11",
+    "posthtml-include": "^1.7.2",
     "tailwindcss": "^2.2.19"
   }
 }
